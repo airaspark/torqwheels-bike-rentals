@@ -1,0 +1,6 @@
+{
+  "name": "TorqWheels Bike Rentals",
+  "description": "Modern Indian bike and scooter rental platform with real-time availability, instant bookings, transparent pricing, customer portal, and comprehensive admin fleet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
