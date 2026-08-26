@@ -8,7 +8,7 @@ export default defineConfig(() => {
     plugins: [react(), tailwindcss()],
 
     // GitHub Pages repository path
-    base: '/test_bike_rental/',
+    base: '/torqwheels-bike-rentals/',
 
     resolve: {
       alias: {
